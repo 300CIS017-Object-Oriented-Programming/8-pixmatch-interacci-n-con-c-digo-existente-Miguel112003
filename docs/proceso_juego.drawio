@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-04-19T02:26:08.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="aEm332MaKDfkXCsrMjfk" version="24.2.5" type="device">
+  <diagram name="Página-1" id="WDj5BEBVcMC5altOqzut">
+    <mxGraphModel dx="838" dy="1375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VT1aZMTUWKZBnDj7aad-1" target="5VT1aZMTUWKZBnDj7aad-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-1" value="Usuario da Click en &quot;New Game&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="83" y="-45" width="298" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VT1aZMTUWKZBnDj7aad-4" target="5VT1aZMTUWKZBnDj7aad-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-4" value="Configuración del Juego (Dificultad, Banco de emojis)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="83" y="103" width="298" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VT1aZMTUWKZBnDj7aad-6" target="5VT1aZMTUWKZBnDj7aad-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-6" value="Preparar nuevo Juego (PreNewGame)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="83" y="254" width="298" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VT1aZMTUWKZBnDj7aad-8" target="5VT1aZMTUWKZBnDj7aad-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-8" value="Generar y mostrar el tablero (ResetBoard)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="83" y="419" width="298" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VT1aZMTUWKZBnDj7aad-10" target="5VT1aZMTUWKZBnDj7aad-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-10" value="El Usuario Selecciona una imagen del tablero" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="83" y="574" width="298" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5VT1aZMTUWKZBnDj7aad-12" target="5VT1aZMTUWKZBnDj7aad-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-12" value="Verificar Seleccion (PressedCheck)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="83" y="733" width="298" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5VT1aZMTUWKZBnDj7aad-14" value="Actualiza puntuación y muestra el resultado" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="83" y="892" width="298" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
